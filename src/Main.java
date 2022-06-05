@@ -47,6 +47,8 @@ public class Main {
         double mixt = 15/3*2;
         double ver= 5 + mixt - cat;
         System.out.println( "Verificare d.: 5+" + mixt + "-" + cat + "= " + ver );
+
+        /* test commit */
     }
 
 }
